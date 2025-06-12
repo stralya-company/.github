@@ -26,9 +26,9 @@ We’re lean. We’re fast. We ship real products — no fluff, no agency BS.
 | 🚧 Project        | Description                                                                                     | Status           |
 |------------------|-------------------------------------------------------------------------------------------------|------------------|
 | **VosArtisans**  | A multi-tenant SaaS directory for local contractors and artisans.                              | ✅ v3 live        |
-| **Klickbee ERP** | A modular ERP designed for web agencies and studios.                                            | 🚧 In development |
-| **Klickbee CMS** | A headless, developer-first CMS built with Next.js & React. Open-source release planned.       | 🧪 MVP by August  |
-| **Stralya Core** | Our internal Node.js-based framework to build robust, composable apps.                         | 🔜 Coming soon    |
+| **Klickbee ERP** | A modular ERP designed for ervery companies, from small to large.                                            | 🚧 In development |
+| **Klickbee CMS** | A monolithic CMS built with Next.js & React. Open-source release planned.       | 🧪 MVP by August  |
+| **Stralya Core** | Our internals Node.js-based packages to build robust, composable apps.                         | 🔜 Coming soon    |
 
 ---
 
