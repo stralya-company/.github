@@ -1,4 +1,4 @@
-<h1 align="center">Stralya</h1>
+<h1 align="center">KlickBee</h1>
 
 <p align="center"><strong>Engineering bold, scalable, and future-proof products for the web.</strong></p>
 
