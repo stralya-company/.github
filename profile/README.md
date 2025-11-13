@@ -1,5 +1,8 @@
 <h1 align="center">Stralya</h1>
 
+# Due to the recent suspension of [JMauclair](https://github.com/JMauclair), active founder of Stralya, for no reasons, we decided to stop using Github and any Github's related services
+# You'll find all the latest Klickbee related news here : https://git.stralya.com/Klickbee
+
 <p align="center"><strong>Engineering bold, scalable, and future-proof products for the web.</strong></p>
 
 <p align="center">
