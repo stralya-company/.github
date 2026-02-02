@@ -70,9 +70,13 @@ Got an idea, a project, or just good vibes to share?
 ### 🤝 Contact Us
 
 📬 contact@stralya.com  
+<br/>
 🌐 France : https://stralya.com/fr-fr/
+<br/>
 🌐 UAE : https://stralya.com/en-ae/
+<br/>
 🌐 US : https://stralya.com/en-us/
+<br/>
 🏢 Based in Dubaï — working with the world.
 
 ---
