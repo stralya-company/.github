@@ -65,9 +65,15 @@ We don’t do shiny decks or fake hype. We just build, iterate, and deliver.
 
 Got an idea, a project, or just good vibes to share?
 
+---
+
+### 🤝 Contact Us
+
 📬 contact@stralya.com  
-🌐 [stralya.com](https://stralya.com) *(coming soon)*  
-🏢 Based in France — working with the world.
+🌐 France : https://stralya.com/fr-fr/
+🌐 UAE : https://stralya.com/en-ae/
+🌐 US : https://stralya.com/en-us/
+🏢 Based in Dubaï — working with the world.
 
 ---
 
